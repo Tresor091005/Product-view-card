@@ -21,6 +21,11 @@ body {
     color: var(--neutral-grayish);
     font-weight: 500;
     background-color: var(--primary-cream);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
